@@ -1,0 +1,13 @@
+data-purifier
+pandas 
+streamlit 
+seaborn 
+matplotlib
+ipython_genutils
+numpy
+scikit-learn
+scipy
+plotly
+streamlit-option-menu
+streamlit_extras
+openpyxl
